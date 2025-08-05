@@ -77,6 +77,20 @@ Once the DH table is defined, run the following live scripts:
 
 ---
 
+## 📁 File Format Notes
+
+Each main script in this toolbox is available in two formats:
+
+- `.m` – Plain-text MATLAB script  
+  → Recommended for quick viewing and code referencing on GitHub
+
+- `.mlx` – MATLAB Live Script  
+  → Recommended for running interactively in MATLAB or MATLAB Online
+
+> ℹ️ If you don’t have MATLAB installed, consider viewing the `.m` files or checking exported `.pdf` versions (if available).
+
+---
+
 ## 📦 Requirements
 
 - MATLAB R2020 or newer (recommended)
