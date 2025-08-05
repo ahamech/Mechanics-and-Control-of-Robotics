@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.autosave
+*.fig
+*.slxc
+*.slx
+
+# Python
+__pycache__/
+*.pyc
+
+# Embedded / Arduino / STM32
+*.hex
+*.elf
+*.o
+*.bin
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
