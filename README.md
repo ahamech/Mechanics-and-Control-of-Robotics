@@ -1,4 +1,4 @@
-# Mechanics-and-Control-of-Robotics
+# Mechanics and Control of Robotics
 
 A robotics-focused repository covering kinematics, dynamics, control algorithms, and implementation using tools like MATLAB, Python, and microcontrollers.
 
