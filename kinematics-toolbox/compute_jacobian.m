@@ -78,4 +78,3 @@ J      % Full Jacobian
 %% 🚨 Detect Singularities
 sing_expr = simplify(det(Jv * transpose(Jv)));
 sing_expr  % Expression for singular configurations
-
