@@ -34,4 +34,3 @@ for i = 1:DOF
     fprintf('--- T_0_%d ---\n', i);
     eval(sprintf('T_0_%d = vpa(Ti_0{%d}, 4)', i, i));
 end
-
